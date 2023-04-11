@@ -45,3 +45,22 @@ section {
   border-radius: 15px;
 }
 
+#galeria{
+  background-color: #dfdfdf;
+  padding: 10px;
+}
+
+
+#caixa-grande{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.caixa-pequena {
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+  background-color: green;
+}
+
